@@ -10,6 +10,8 @@ Lediglich eine: COUNTY – der Name des gewählten Landkreises.
 * [curl](https://github.com/curl/curl)
 * [jq](https://github.com/stedolan/jq)
 
+----------
+
 # xbar-rki-lokale-inzidenzzahl (EN)
 Displays the local county COVID-19 incidence via [xbar](https://github.com/matryer/xbar) according to [RKI](https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html). Currently limited to Germany.
 
