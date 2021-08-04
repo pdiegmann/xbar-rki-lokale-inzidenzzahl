@@ -5,6 +5,7 @@
 #  <xbar.author.github>pdiegmann</xbar.author.github>
 #  <xbar.desc>Lädt die aktuelleste COVID-19 Inzidenzzahl laut RKI für einen Landkreis, sowie das zugehörige Bundesland.</xbar.desc>
 #  <xbar.dependencies>curl,jq</xbar.dependencies>
+#  <xbar.abouturl>https://github.com/pdiegmann/xbar-rki-lokale-inzidenzzahl</xbar.abouturl>
 # 
 #  <xbar.var>string(COUNTY="OBERBERGISCHER KREIS"): Landkreis / County.</xbar.var>
 
